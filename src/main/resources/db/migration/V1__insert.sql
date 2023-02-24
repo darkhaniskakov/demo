@@ -1,0 +1,1 @@
+insert into code_entity (code) values ('a0a0');
